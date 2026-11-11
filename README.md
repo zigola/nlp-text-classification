@@ -1,3 +1,5 @@
+<p align="center"><img src="project-banner.svg" alt="NLP Text Classification banner" width="100%" /></p>
+
 # NLP Text Classification
 
 A clean starter project for Natural Language Processing (NLP), text classification, and sentiment analysis with Python.
